@@ -1,0 +1,5 @@
+29120232122, 23,  "Tamiya 2oz paint - ferrari red",  2.39, , 0.0, $4.78, 29/01/2023, 21:22:12 PM EST
+29120232122, 14,  "Stanley #2 Philips Screwdriver",  6.95, , 0.0, $6.95, 29/01/2023, 21:22:17 PM EST
+29120232122, 387,  "Brachs butterscotch hard candy - 1 lb",  4.50, , 0.15, $53.55, 29/01/2023, 21:22:49 PM EST
+29120232123, 4762,  "HP copy paper ultra white - ream",  13.50, , 0.1, $72.9, 29/01/2023, 21:23:18 PM EST
+29120232123, 268,  "Sidi Wire 2 carbon shoes",  499.99, , 0.2, $11999.76, 29/01/2023, 21:23:36 PM EST
