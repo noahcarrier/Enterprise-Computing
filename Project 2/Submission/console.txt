@@ -1,0 +1,66 @@
+Depositor Agents				Withdrawal Agents					        Balance								             Transaction Number
+================				=================					========================							===========================
+								Agent WT4 withdraws $9				(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $457												(+) Balance is $457														1
+
+* * * Flagged Transaction - Depositor Agent DT2 Made A Transaction In Excess Of $350.00 USD - See Flagged Transaction log.
+
+								Agent WT4 withdraws $26				(-) Balance is $431														2
+								Agent WT4 withdraws $78				(-) Balance is $353														3
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+								Agent WT4 withdraws $35				(-) Balance is $318														4
+								Agent WT4 withdraws $74				(-) Balance is $244														5
+								Agent WT4 withdraws $22				(-) Balance is $222														6
+Agent DT2 deposits $194												(+) Balance is $416														7
+								Agent WT4 withdraws $91				(-) Balance is $325														8
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+								Agent WT4 withdraws $70				(-) Balance is $255														9
+*******************************************************************************************************************************
+
+					AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $255		Number of transactions since last audit is: 9
+
+*******************************************************************************************************************************
+
+
+								Agent WT4 withdraws $6				(-) Balance is $249														10
+								Agent WT4 withdraws $69				(-) Balance is $180														11
+								Agent WT4 withdraws $91				(-) Balance is $89														12
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+								Agent WT4 withdraws $86				(-) Balance is $3														13
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+Agent DT2 deposits $185												(+) Balance is $188														14
+								Agent WT4 withdraws $4				(-) Balance is $184														15
+								Agent WT4 withdraws $68				(-) Balance is $116														16
+Agent DT2 deposits $28												(+) Balance is $144														17
+								Agent WT4 withdraws $15				(-) Balance is $129														18
+Agent DT2 deposits $8												(+) Balance is $137														19
+								Agent WT4 withdraws $11				(-) Balance is $126														20
+*******************************************************************************************************************************
+
+					AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $126		Number of transactions since last audit is: 11
+
+*******************************************************************************************************************************
+
+
+								Agent WT4 withdraws $85				(-) Balance is $41														21
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+								Agent WT4 withdraws $87				(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent DT2 deposits $222												(+) Balance is $263														22
+								Agent WT4 withdraws $48				(-) Balance is $215														23
+								Agent WT4 withdraws $79				(-) Balance is $136														24
+
+* * * Flagged Transaction - Withdrawal Agent WT4 Made A Transaction In Excess Of $75.00 USD - See Flagged Transaction log.
+
+
+[Done] exited with code=null in 50.968 seconds
+

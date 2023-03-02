@@ -1,0 +1,6 @@
+Depositor Agent DT2 issued deposit of $457 at: 15/02/2023 22:51:35 EST	Transaction Number : 1
+	Withdrawal Agent WT4 issued deposit of $78 at: 15/02/2023 22:51:41 EST	Transaction Number : 3
+	Withdrawal Agent WT4 issued deposit of $91 at: 15/02/2023 22:51:51 EST	Transaction Number : 8
+	Withdrawal Agent WT4 issued deposit of $91 at: 15/02/2023 22:52:02 EST	Transaction Number : 12
+	Withdrawal Agent WT4 issued deposit of $86 at: 15/02/2023 22:52:05 EST	Transaction Number : 13
+	Withdrawal Agent WT4 issued deposit of $85 at: 15/02/2023 22:52:18 EST	Transaction Number : 21
